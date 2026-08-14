@@ -22,10 +22,7 @@ jobs:
       run: |-
         rc=0
         for repo in \
-          kubernetes/kops \
-          kubernetes/kubernetes \
-          hashicorp/terraform \
-          terraform-providers/terraform-provider-aws; do
+          getsentry/sentry-native; do
           echo "::group::Fetching ${repo}"
           if ! go run main.go "${repo}"; then
             echo "::warning::failed to fetch ${repo}"
