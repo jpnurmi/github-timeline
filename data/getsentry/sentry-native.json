@@ -13613,7 +13613,12 @@
     {
       "day": "2026-08-16T00:00:00Z",
       "open_issues": 59,
-      "open_prs": 18
+      "open_prs": 19
+    },
+    {
+      "day": "2026-08-17T00:00:00Z",
+      "open_issues": 59,
+      "open_prs": 19
     }
   ]
 }
