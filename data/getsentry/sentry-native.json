@@ -13633,7 +13633,12 @@
     {
       "day": "2026-08-20T00:00:00Z",
       "open_issues": 57,
-      "open_prs": 18
+      "open_prs": 22
+    },
+    {
+      "day": "2026-08-21T00:00:00Z",
+      "open_issues": 56,
+      "open_prs": 15
     }
   ]
 }
